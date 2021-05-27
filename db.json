@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "id": 3,
-      "text": "say hi to ryan",
-      "day": "May 28 at 5:00pm",
-      "reminder": true
-    },
-    {
       "text": "eat a cake",
       "day": "",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "hey!!",
+      "day": "hey",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "it does work!",
+      "day": "4ever!",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
